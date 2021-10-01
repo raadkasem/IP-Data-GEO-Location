@@ -1,6 +1,28 @@
 # IP-Data GEO Location
 
-This plugin allows you to save all the visitor's IP address and get their location info by IP .
+A Wordpress plugin allows you to get all the visitor's IP address and get their location info by IP
+and Tracking their visiting activity page by page on your website.
+
+### Features :
+1. Get visitor info like: IP Address, Country, City, Region, Cordinates, Visited Page , visit time.<br />
+2. Date && Time Filter accurate to filter BY Seconds ⏲.
+3. Search applies on all fileds.
+4. Sorting Column [ASC - DESC].
+5. Server Side Proccing.
+6. Export Information to Formatted Excel File.
+7. Pagination [Rows Per Page, Pagination Controller].
+
+## Installation:
+1. Create new account on IP Data and get you r personal API Key (https://ipdata.co). <br />
+2. Read IP Data Docs (https://docs.ipdata.co).
+3. Log in to your website administrator panel
+4. Go to Plugins page, and add new plugin
+5. Upload plugin [plugin-file].zip
+6. Click [Install Now] button
+7. Then click [Activate] Plugin button
+8. On the sidebar menu select IPData API -> API KEY ->  enter your API Key then Save to database.
+9. You are ready to go......
+
 
 ## Getting Started WordPress Development
 
